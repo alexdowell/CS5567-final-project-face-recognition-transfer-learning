@@ -22,7 +22,7 @@ This repository contains the final project for **CS5567**, where a face recognit
   - Slide deck presenting key findings, results, and model performance.  
 
 ### **Dataset and Additional Files**  
-- **Folders:** `cropped_faces`, `GTdb_crop`, `labels`  
+- **Folders:** `cropped_faces`, `labels`  
   - Contain processed images and label files for training and testing.  
 
 ## Installation  
@@ -33,7 +33,7 @@ Ensure that **MATLAB** is installed with the following toolboxes:
 - **Statistics and Machine Learning Toolbox**  
 
 ### **Downloading the Dataset**  
-The **Georgia Tech Face Database** can be downloaded from:  
+The **Georgia Tech Face Database** is included in the repository but can be downloaded from:  
 [http://www.anefian.com/research/face_reco.htm](http://www.anefian.com/research/face_reco.htm)  
 
 Once downloaded, unzip the following files into the respective folders:  
